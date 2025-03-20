@@ -9,6 +9,7 @@ on:
   push:
     paths:
      - credentials.yml
+     - dummypattern.yml
 
 # Reference: https://docs.github.com/en/actions/security-guides/automatic-token-authentication
 permissions:
